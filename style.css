@@ -1,0 +1,13 @@
+button{
+    cursor:pointer;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+.a{
+    border:2px solid black ;
+    box-shadow: 2px 2px 2px 2px deeppink;
+    border-radius:50% ;
+}
